@@ -263,7 +263,7 @@ public class ResultVo<T> implements Serializable {
 >
 > 这里端口，就是你运行项目的端口
 
-![image-20230331155517709](image/image-20230331155517709.png)
+![image-20230331155517709](springboot-images/image-20230331155517709.png)
 
 ## knife4j增强功能
 
@@ -317,7 +317,7 @@ knife4j:
 
 如果在方法上使用了注解，并且也在类上使用了注解，那么最后的展示结果以方法上的注解为准
 
-![image-20230331160425656](image/image-20230331160425656.png)
+![image-20230331160425656](springboot-images/image-20230331160425656.png)
 
 ### 资源屏蔽
 
@@ -333,7 +333,7 @@ knife4j:
 
 然后重启项目
 
-![image-20230331160832987](image/image-20230331160832987.png)
+![image-20230331160832987](springboot-images/image-20230331160832987.png)
 
 ### 访问页面加权控制
 
@@ -364,7 +364,7 @@ knife4j:
 
 > 如果开启生产环境屏蔽了，开启basic认证是不生效的
 
-![image-20230331161440718](image/image-20230331161440718.png)
+![image-20230331161440718](springboot-images/image-20230331161440718.png)
 
 ### 接口排序
 
@@ -413,7 +413,7 @@ public class Knife4jTestController
 
 我们在调试接口的时候，有的接口会有很多参数，当我们好不容易填好了所有的参数，由于我们不小心关闭了页面，下次再调试的时候发现还需要再次将参数输入一遍，心态会爆炸吧，所以 knife4j 在文档管理中增加了一个选项：开启请求参数缓存
 
-![image-20230331162345564](image/image-20230331162345564.png)
+![image-20230331162345564](springboot-images/image-20230331162345564.png)
 
 > Tips:
 >
@@ -490,11 +490,11 @@ public class UserAddressDTO {
 
 新增操作没有id
 
-![image-20230331163601535](SpringBoot-01 整合knife4j.assets/image-20230331163601535.png)
+![image-20230331163601535](springboot-images/image-20230331163601535.png)
 
 编辑操作
 
-![image-20230331163636414](image/image-20230331163636414.png)
+![image-20230331163636414](springboot-images/image-20230331163636414.png)
 
 **JSON格式忽略**
 
@@ -522,7 +522,7 @@ knife4j:
 > enableDebug:该属性是一个Boolean值，代表是否启用调试功能,默认值为true(代表开启调试)，如果要禁用调试，该值设为false
 > 同样，此操作也需要开发者在创建Docket逻辑分组对象时，通过Knife4j提供的工具对象OpenApiExtensionResolver将扩展属性进行赋值
 
-![image-20230331165449490](image/image-20230331165449490.png)
+![image-20230331165449490](springboot-images/image-20230331165449490.png)
 
 ### 禁用搜索框
 
@@ -537,3 +537,4 @@ knife4j:
 
 > enableSearch:该属性是一个Boolean值，代表是否启用搜索功能,默认值为true(代表开启搜索)，如果要禁用搜索，该值设为false
 > 同样，此操作也需要开发者在创建Docket逻辑分组对象时，通过Knife4j提供的工具对象OpenApiExtensionResolver将扩展属性进行赋值。具体的代码实现请参考禁用调试和自定义主页内容，我这里就不重复了。
+
