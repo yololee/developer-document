@@ -2,6 +2,7 @@
 | ---- | ----------------------------------------------- | ------------------------------------------------------------ |
 | √    | Alibaba Java Coding Guidelines                  | 阿里代码规约检测 p3c                                         |
 | √    | maven-search                                    | 搜索依赖                                                     |
+| √    | easyCode                                        | 根据表结构生成实体类                                         |
 | √    | Lombok                                          | 类上注解@Data 省去 getter/setter、toString 等方法滴          |
 | √    | Save Actions                                    | 保存时的一些自动操作，如按下 Ctrl + S 即可自动按照阿里巴巴编码风格格式化代码 |
 | √    | Git Flow Integration                            | Git Flow 的图形界面操作 (mac 需要安装 git-flow 引擎：`brew install git-flow-avh`，验证：`git flow version`) |
