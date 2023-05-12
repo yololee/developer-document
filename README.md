@@ -37,6 +37,7 @@
 1. [springboot-properties 获取配置文件的方法](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-properties%E8%AF%BB%E5%8F%96%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
 2. [ springboot-全局异常处理](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
 3. [ springboot-本地文件上传下载](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD.md)
+4. [ springboot-使用插件生成实体类](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6%E7%94%9F%E6%88%90%E5%AE%9E%E4%BD%93%E7%B1%BB.md)
 
 ### 2、日志
 
@@ -54,6 +55,8 @@
 1. [ springboot-整合knife4j](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88knife4j.md)
 2. [ springboot-整合mybatis(注解、XML)](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88mybatis(%E6%B3%A8%E8%A7%A3%E3%80%81XML).md)
 3. [ springboot-整合mybatis使用PageHelper](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88mybatis%E4%BD%BF%E7%94%A8PageHelper.md)
+4. [ springboot-整合mybatis-plus](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88mybatis-plus.md)
+5. [ springboot-mybatis-plus中条件构造器的使用](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-mybatis-plus%E6%9D%A1%E4%BB%B6%E6%9E%84%E9%80%A0%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ## Idea
 
