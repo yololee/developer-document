@@ -49,6 +49,7 @@
 
 1. [ springboot-自定义注解打印参数信息](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%89%93%E5%8D%B0%E5%8F%82%E6%95%B0%E4%BF%A1%E6%81%AF.md)
 2. [ springboot-自定义注解构建Tree](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%9E%84%E5%BB%BATree.md)
+3. [ springboot-自定义注解实现防止重复提交](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%AE%9E%E7%8E%B0%E9%98%B2%E6%AD%A2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4.md)
 
 ### 4、整合第三方组件
 
