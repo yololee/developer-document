@@ -702,7 +702,9 @@ public class RedisUtil {
 
 ## 三、使用注解Cacheable对接口数据进行缓存
 
-### ==1、注解介绍==
+### 1、注解介绍
+
+> 注意：在Spring Boot主类中增加`@EnableCaching`注解开启缓存功能
 
 #### @Cacheable
 
