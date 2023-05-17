@@ -38,6 +38,8 @@
 2. [ springboot-全局异常处理](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%85%A8%E5%B1%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
 3. [ springboot-本地文件上传下载](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E4%B8%8B%E8%BD%BD.md)
 4. [ springboot-使用插件生成实体类](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6%E7%94%9F%E6%88%90%E5%AE%9E%E4%BD%93%E7%B1%BB.md)
+5. [springboot-整合网易发送邮件](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6.md)
+6. [springboot-加密配置中的敏感信息](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8A%A0%E5%AF%86%E9%85%8D%E7%BD%AE%E4%B8%AD%E7%9A%84%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF.md)
 
 ### 2、日志
 
@@ -58,6 +60,20 @@
 3. [ springboot-整合mybatis使用PageHelper](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88mybatis%E4%BD%BF%E7%94%A8PageHelper.md)
 4. [ springboot-整合mybatis-plus](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88mybatis-plus.md)
 5. [ springboot-mybatis-plus中条件构造器的使用](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-mybatis-plus%E6%9D%A1%E4%BB%B6%E6%9E%84%E9%80%A0%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+6. [springboot-整合redis](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis.md)
+
+### 5、任务管理
+
+#### 定时任务
+
+1. [springboot-使用@Scheduled实现定时任务](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%AE%9E%E7%8E%B0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1(scheduled).md)
+2. [springboot-整合xxl-job](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%AE%9E%E7%8E%B0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1(xxl-job).md)
+3. [springboot-通过Http请求操作xxl-job](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E9%80%9A%E8%BF%87Http%E8%AF%B7%E6%B1%82%E6%93%8D%E4%BD%9Cxxl-job.md)
+4. [springboot-手写xxl-job的starter实现自动注册](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%89%8B%E5%86%99xxl-job%E7%9A%84starter%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C.md)
+
+#### 异步任务
+
+
 
 ## Idea
 
