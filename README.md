@@ -41,6 +41,8 @@
 5. [springboot-整合网易发送邮件](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6.md)
 6. [springboot-加密配置中的敏感信息](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8A%A0%E5%AF%86%E9%85%8D%E7%BD%AE%E4%B8%AD%E7%9A%84%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF.md)
 7. [springboot-Jackson的使用](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-Jackson%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+8. [springboot-数据库(url)参数介绍](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B0%E6%8D%AE%E5%BA%93(url)%E5%8F%82%E6%95%B0%E4%BB%8B%E7%BB%8D.md)
+9. [ springboot-项目启动后自动执行其他业务功能](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E9%A1%B9%E7%9B%AE%E5%90%AF%E5%8A%A8%E5%90%8E%E8%87%AA%E5%8A%A8%E6%89%A7%E8%A1%8C%E5%85%B6%E4%BB%96%E4%B8%9A%E5%8A%A1%E5%8A%9F%E8%83%BD.md)
 
 ### 2、日志
 
