@@ -40,6 +40,7 @@
 4. [ springboot-使用插件生成实体类](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6%E7%94%9F%E6%88%90%E5%AE%9E%E4%BD%93%E7%B1%BB.md)
 5. [springboot-整合网易发送邮件](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6.md)
 6. [springboot-加密配置中的敏感信息](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%8A%A0%E5%AF%86%E9%85%8D%E7%BD%AE%E4%B8%AD%E7%9A%84%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF.md)
+7. [springboot-Jackson的使用](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-Jackson%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ### 2、日志
 
