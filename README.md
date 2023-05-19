@@ -67,6 +67,7 @@
 6. [springboot-整合redis](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis.md)
 7. [springboot-整合flyway](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88flyway.md)
 8. [spring-boot 使用 Mybatis-Plus 提供的开源解决方案实现多数据源](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8mybatis-plus%E9%9B%86%E6%88%90%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90.md)
+9. [ springboot-redis多数据源配置(单节点、集群、哨兵模式配置)](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-redis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE.md)
 
 ### 5、任务管理
 
