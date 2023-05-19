@@ -101,5 +101,5 @@ public class TestController {
 
 ![image-20230510114749538](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230510114749538.png)
 
-> [Gitee项目地址（demo-call-info）](https://gitee.com/huanglei1111/yolo-springboot-demo/tree/master/demo-call-info)
+> [Gitee项目地址（demo-aop-call-info）](https://gitee.com/huanglei1111/yolo-springboot-demo/tree/master/demo-aop-call-info)
 

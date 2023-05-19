@@ -66,6 +66,7 @@
 5. [ springboot-mybatis-plus中条件构造器的使用](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-mybatis-plus%E6%9D%A1%E4%BB%B6%E6%9E%84%E9%80%A0%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 6. [springboot-整合redis](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis.md)
 7. [springboot-整合flyway](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88flyway.md)
+8. [spring-boot 使用 Mybatis-Plus 提供的开源解决方案实现多数据源](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8mybatis-plus%E9%9B%86%E6%88%90%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90.md)
 
 ### 5、任务管理
 
