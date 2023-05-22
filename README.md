@@ -83,6 +83,8 @@
 
 [ springboot-使用@Async实现异步任务](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8@Async%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.md)
 
+
+
 ## Idea
 
 1. [ idea-乱码问题解决](https://gitee.com/huanglei1111/developer-document/blob/master/idea/idea-%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
