@@ -70,6 +70,7 @@
 9. [ springboot-redis多数据源配置(单节点、集群、哨兵模式配置)](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-redis%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E9%85%8D%E7%BD%AE.md)
 10. [ springboot-整合Druid连接池](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88Druid%E8%BF%9E%E6%8E%A5%E6%B1%A0.md)
 11. [ springboot-整合shardingjdbc](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88shardingjdbc.md)
+12. [springboot-整合ureport2](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88ureport2.md)
 
 ### 5、任务管理
 
