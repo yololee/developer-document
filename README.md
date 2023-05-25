@@ -71,6 +71,7 @@
 10. [ springboot-整合Druid连接池](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88Druid%E8%BF%9E%E6%8E%A5%E6%B1%A0.md)
 11. [ springboot-整合shardingjdbc](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88shardingjdbc.md)
 12. [springboot-整合ureport2](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88ureport2.md)
+13. [ springboot-整合validator实现参数校验](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88validator%E5%AE%9E%E7%8E%B0%E5%8F%82%E6%95%B0%E6%A0%A1%E9%AA%8C.md)
 
 ### 5、任务管理
 
