@@ -47,6 +47,18 @@ spring:
         - 192.168.10.11:26381
 ```
 
+或者配置为下面的，可以省略下面三、四步骤
+
+```yml
+spring:
+  redis:
+    database: 0
+    password: 123456 #redis密码
+    sentinel:
+      master: mymaster
+      nodes: 116.211.105.107:26379, 116.211.105.112:26380, 116.211.105.117:26381
+```
+
 ### 3、RedisConfig
 
 ```java
