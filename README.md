@@ -89,6 +89,11 @@
 
 [ springboot-使用@Async实现异步任务](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8@Async%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.md)
 
+## Docker
+
+1. [docker swarm环境和mysql、redis、rabbimq、portainer部署](https://gitee.com/huanglei1111/developer-document/blob/master/docker/docker%20swarm%E7%8E%AF%E5%A2%83%E5%92%8Cmysql%E3%80%81redis%E3%80%81rabbimq%E3%80%81portainer%E9%83%A8%E7%BD%B2.md)
+2. [idea集成docker构建镜像](https://gitee.com/huanglei1111/developer-document/blob/master/docker/springboot-%E6%95%B4%E5%90%88docker.md)
+
 ## Elasticsearch
 
 1. [ ElasticSearch 基本使用](https://gitee.com/huanglei1111/developer-document/blob/master/ElasticSearch/ElasticSearch%20%E5%85%A5%E9%97%A8.md)
