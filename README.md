@@ -76,6 +76,7 @@
 15. [springboot-整合redis哨兵集群](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis-sentinel.md)
 16. [springboot-整合satoken权限框架](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88satoken.md)
 17. [springboot-整合mapStructPlus](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStructPlus.md)
+18. [springboot-整合mapStruct](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStruct.md)
 
 ### 5、任务管理
 
