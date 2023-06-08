@@ -30,7 +30,7 @@
 2. [ Google Guava 实战之Map篇](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%B7%A5%E5%85%B7%E7%B1%BB/Google%20Guava%E5%AE%9E%E6%88%98%E4%B9%8BMap%E7%AF%87.md)
 3. [ Google Guava 实战之String篇](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%B7%A5%E5%85%B7%E7%B1%BB/Google%20Guava%E5%AE%9E%E6%88%98%E4%B9%8BString%E7%AF%87.md)
 4. [Java工具类库](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%B7%A5%E5%85%B7%E7%B1%BB/java%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93.md)
-5. 
+5. [Json工具类](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%B7%A5%E5%85%B7%E7%B1%BB/JsonUtils.md)
 
 ## SpringBoot 系列
 
@@ -149,4 +149,5 @@
 9. [ idea-使用easyYapi插件导出yapi接口](https://gitee.com/huanglei1111/developer-document/blob/master/idea/idea-%E4%BD%BF%E7%94%A8easyYapi%E6%8F%92%E4%BB%B6%E5%AF%BC%E5%87%BAyapi%E6%8E%A5%E5%8F%A3.md)
 10. [ idea-热部署插件JRebel的激活和使用](https://gitee.com/huanglei1111/developer-document/blob/master/idea/idea-%E7%83%AD%E9%83%A8%E7%BD%B2%E6%8F%92%E4%BB%B6JRebel%E7%9A%84%E6%BF%80%E6%B4%BB%E5%92%8C%E4%BD%BF%E7%94%A8.md)
 11. [idea-常用插件](https://gitee.com/huanglei1111/developer-document/blob/master/idea/idea-%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.md)
+12. [idea-使用ApifoxHelper插件导出接口文档到apifox中](https://gitee.com/huanglei1111/developer-document/blob/master/idea/idea-%E4%BD%BF%E7%94%A8ApifoxHelper%E5%AF%BC%E5%87%BA%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3%E5%88%B0apifox.md)
 
