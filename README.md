@@ -81,6 +81,7 @@
 17. [springboot-整合mapStructPlus](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStructPlus.md)
 18. [springboot-整合mapStruct](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStruct.md)
 19. [springboot-整合redis封装命令](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis%E5%B0%81%E8%A3%85%E5%91%BD%E4%BB%A4.md)
+20. [springboot-整合jsoup解决XSS安全问题](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88jsoup%E8%A7%A3%E5%86%B3xss%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md)
 
 ### 5、任务管理
 
