@@ -634,3 +634,6 @@ public class ClearMsgLogTask {
 ![image-20230615123536446](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230615123536446.png)
 
 ![image-20230615123558977](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230615123558977.png)
+
+> [Gitee项目地址（demo-message-consistency）](https://gitee.com/huanglei1111/yolo-springboot-demo/tree/master/demo-rabbitmq/demo-message-consistency)
+
