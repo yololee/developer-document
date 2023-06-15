@@ -83,6 +83,7 @@
 18. [springboot-整合mapStruct](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStruct.md)
 19. [springboot-整合redis封装命令](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis%E5%B0%81%E8%A3%85%E5%91%BD%E4%BB%A4.md)
 20. [springboot-整合jsoup解决XSS安全问题](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88jsoup%E8%A7%A3%E5%86%B3xss%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md)
+21. [springboot-整合forest发送请求](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88forest%E5%8F%91%E9%80%81%E8%AF%B7%E6%B1%82.md#springboot-%E6%95%B4%E5%90%88forest%E5%8F%91%E9%80%81%E8%AF%B7%E6%B1%82)
 
 ### 5、任务管理
 
@@ -131,6 +132,21 @@
 
 1. [docker swarm环境和mysql、redis、rabbimq、portainer部署](https://gitee.com/huanglei1111/developer-document/blob/master/docker/docker%20swarm%E7%8E%AF%E5%A2%83%E5%92%8Cmysql%E3%80%81redis%E3%80%81rabbimq%E3%80%81portainer%E9%83%A8%E7%BD%B2.md)
 2. [idea集成docker构建镜像](https://gitee.com/huanglei1111/developer-document/blob/master/docker/springboot-%E6%95%B4%E5%90%88docker.md)
+
+## Rabbitmq
+
+1. [rabbitmq-入门](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E5%85%A5%E9%97%A8.md)
+2. [rabbitmq-注解和消息序列化](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E6%B3%A8%E8%A7%A3%E5%92%8C%E6%B6%88%E6%81%AF%E5%BA%8F%E5%88%97%E5%8C%96.md)
+3. [rabbitmq-七种工作模型](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E4%B8%83%E7%A7%8D%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%9E%8B.md)
+4. [rabbitmq-重试机制](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E9%87%8D%E8%AF%95%E6%9C%BA%E5%88%B6.md)
+5. [rabbitmq-延迟队列](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E5%BB%B6%E8%BF%9F%E9%98%9F%E5%88%97.md)
+6. [rabbitmq-死信队列](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E6%AD%BB%E4%BF%A1%E9%98%9F%E5%88%97.md)
+7. [rabbitmq-生产者消息确认机制](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E7%94%9F%E4%BA%A7%E8%80%85%E6%B6%88%E6%81%AF%E7%A1%AE%E8%AE%A4%E6%9C%BA%E5%88%B6.md)
+8. [rabbitmq-消费者消息确认机制](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%88%E6%81%AF%E7%A1%AE%E8%AE%A4%E6%9C%BA%E5%88%B6.md)
+9. [rabbitmq-保证消息100%投送成功并被消费](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E4%BF%9D%E8%AF%81%E6%B6%88%E6%81%AF100%25%E6%8A%95%E9%80%92%E6%88%90%E5%8A%9F%E5%B9%B6%E8%A2%AB%E6%B6%88%E8%B4%B9.md)
+10. [rabbitmq-问题](https://gitee.com/huanglei1111/developer-document/blob/master/rabbitmq/rabbitmq-%E9%97%AE%E9%A2%98.md)
+
+
 
 ## Elasticsearch
 
