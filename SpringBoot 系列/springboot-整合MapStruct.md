@@ -161,6 +161,30 @@ public interface UserConvertMapper {
     void dto2Entity(UserDto userDto, @MappingTarget User user);
 ```
 
+### 忽略字段
+
+**方法一**
+
+![image-20230616115141942](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230616115141942.png)
+
+**方法二**
+
+自定义注解，然后指定哪些字段需要忽略
+
+```java
+@Retention(RetentionPolicy.CLASS)
+@Mappings(value = {
+        @Mapping(target = "id", ignore = true),
+        @Mapping(target = "createTime", ignore = true),
+        @Mapping(target = "updateTime", ignore = true),
+        @Mapping(target = "deleteFlag", ignore = true),
+        @Mapping(target = "deleteTime", ignore = true)
+})
+
+public @interface MappingIgnore {
+}
+```
+
 ### 使用表达式
 
 目前java是唯一受支持的语言，达式必须以Java表达式的形式给出
