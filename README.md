@@ -85,6 +85,7 @@
 19. [springboot-整合redis封装命令](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis%E5%B0%81%E8%A3%85%E5%91%BD%E4%BB%A4.md)
 20. [springboot-整合jsoup解决XSS安全问题](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88jsoup%E8%A7%A3%E5%86%B3xss%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md)
 21. [springboot-整合forest发送请求](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88forest%E5%8F%91%E9%80%81%E8%AF%B7%E6%B1%82.md#springboot-%E6%95%B4%E5%90%88forest%E5%8F%91%E9%80%81%E8%AF%B7%E6%B1%82)
+22. [springboot-心跳机制加redis实现网站在线人数统计](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%BF%83%E8%B7%B3%E6%9C%BA%E5%88%B6+redis%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%AB%99%E5%AE%9E%E6%97%B6%E5%9C%A8%E7%BA%BF%E4%BA%BA%E6%95%B0%E7%BB%9F%E8%AE%A1.md)
 
 ### 5、任务管理
 
