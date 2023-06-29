@@ -23,6 +23,7 @@
 2. [ AtomicBoolean的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/AtomicBoolean%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 3. [ CountDownLatch的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%20CountDownLatch%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 4. [ 线程池ScheduledExecutorService的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E7%BA%BF%E7%A8%8B%E6%B1%A0ScheduledExecutorService%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+5. [ ThreadLocal原理详解和使用场景](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/ThreadLocal%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 
 ### 4、工具类
 
@@ -61,6 +62,7 @@
 3. [ springboot-自定义注解实现防止重复提交](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%AE%9E%E7%8E%B0%E9%98%B2%E6%AD%A2%E9%87%8D%E5%A4%8D%E6%8F%90%E4%BA%A4.md)
 4. [ springboot-自定义注解实现日志管理(登录日志，操作日志)](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%97%A5%E5%BF%97%E7%AE%A1%E7%90%86(%E7%99%BB%E5%BD%95%E6%97%A5%E5%BF%97%EF%BC%8C%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97).md)
 5. [ springboot-自定义注解实现接口限流](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%AE%9E%E7%8E%B0%E6%8E%A5%E5%8F%A3%E9%99%90%E6%B5%81.md)
+6. [springboot-自定义注解实现请求参数和响应结果的加密和解密](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%AE%9E%E7%8E%B0%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0%E5%92%8C%E5%93%8D%E5%BA%94%E4%BD%93%E7%9A%84%E5%8A%A0%E5%AF%86%E5%92%8C%E8%A7%A3%E5%AF%86.md)
 
 ### 4、整合第三方组件
 
