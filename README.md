@@ -16,6 +16,7 @@
 1. [ BigDecimal类的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/base/BigDecima%E7%B1%BB%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 2. [ 枚举类常见操作](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/base/%E6%9E%9A%E4%B8%BE%E7%B1%BB%E7%9A%84%E5%B8%B8%E8%A7%81%E6%93%8D%E4%BD%9C.md)
 3. [ Map集合中put()与putIfAbsent()的区别](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/base/Map%E9%9B%86%E5%90%88%E4%B8%ADput()%E4%B8%8EputIfAbsent()%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+4. [ StringJoiner 详解 (拼接字符串添加分隔符、前缀和后缀)](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/base/StringJoiner%E8%AF%A6%E8%A7%A3(%E6%8B%BC%E6%8E%A5%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%B7%BB%E5%8A%A0%E5%88%86%E9%9A%94%E7%AC%A6%EF%BC%8C%E5%89%8D%E7%BC%80%EF%BC%8C%E5%90%8E%E7%BC%80).md)
 
 ### 3、线程池
 
@@ -24,6 +25,8 @@
 3. [ CountDownLatch的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%20CountDownLatch%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 4. [ 线程池ScheduledExecutorService的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E7%BA%BF%E7%A8%8B%E6%B1%A0ScheduledExecutorService%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 5. [ ThreadLocal原理详解和使用场景](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/ThreadLocal%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+6. [ CompletableFuture异步执行任务](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/CompletableFuture%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1.md)
+7. [ Runnable和Callable的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/Runnable%E5%92%8CCallable%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 ### 4、工具类
 
