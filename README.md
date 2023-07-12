@@ -27,6 +27,7 @@
 5. [ ThreadLocal原理详解和使用场景](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/ThreadLocal%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 6. [ CompletableFuture异步执行任务](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/CompletableFuture%E5%BC%82%E6%AD%A5%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1.md)
 7. [ Runnable和Callable的使用](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/Runnable%E5%92%8CCallable%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+8. [线程池参数如何配置](https://gitee.com/huanglei1111/developer-document/blob/master/java%208%20%E7%AC%94%E8%AE%B0/%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%8F%82%E6%95%B0%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE.md)
 
 ### 4、工具类
 

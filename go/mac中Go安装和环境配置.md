@@ -33,3 +33,27 @@ go version
 ```
 
 ![image-20230629165552432](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230629165552432.png)
+
+## 三、入门程序
+
+创建一个main.go文件
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello world")
+}
+
+```
+
+在该文件目录下执行` go run main.go `。输出结果
+
+```
+hello world
+```
+
+
+
