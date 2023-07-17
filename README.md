@@ -106,6 +106,12 @@
 
 [ springboot-使用@Async实现异步任务](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8@Async%E5%AE%9E%E7%8E%B0%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1.md)
 
+#### 分布式定时任务
+
+[springboot-自定义注解结合redis实现分布式定时任务锁](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E7%BB%93%E5%90%88redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E9%94%81.md)
+
+
+
 ## Spring Security
 
 1. [Spring Security-入门体验](https://gitee.com/huanglei1111/developer-document/blob/master/SpringSecurity/Spring%20Security-%E5%85%A5%E9%97%A8%E4%BD%93%E9%AA%8C.md)
