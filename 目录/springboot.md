@@ -64,6 +64,8 @@
 
 [springboot-心跳机制加redis实现网站在线人数统计](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E5%BF%83%E8%B7%B3%E6%9C%BA%E5%88%B6+redis%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%AB%99%E5%AE%9E%E6%97%B6%E5%9C%A8%E7%BA%BF%E4%BA%BA%E6%95%B0%E7%BB%9F%E8%AE%A1.md)
 
+[springboot-整合redisson实现分布式锁](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88Redisson%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
+
 ### API开发
 
 [springboot-整合knife4j](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88knife4j.md)
