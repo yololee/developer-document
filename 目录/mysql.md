@@ -28,4 +28,6 @@
 3. [ MySQL数据类型和应用](https://gitee.com/huanglei1111/developer-document/blob/master/mysql/%E6%A6%82%E5%BF%B5%E7%B3%BB%E5%88%97/MySQL%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BA%94%E7%94%A8.md)
 4. [如何保证缓存和数据库一致性](https://gitee.com/huanglei1111/developer-document/blob/master/mysql/%E6%A6%82%E5%BF%B5%E7%B3%BB%E5%88%97/redis%E7%BC%93%E5%AD%98%E5%92%8Cmysql%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98.md)
 5. [mysql事务](https://gitee.com/huanglei1111/developer-document/blob/master/mysql/%E6%A6%82%E5%BF%B5%E7%B3%BB%E5%88%97/MySQL%E4%BA%8B%E5%8A%A1.md)
+6. [MySQL中MVCC介绍](https://gitee.com/huanglei1111/developer-document/blob/master/mysql/%E6%A6%82%E5%BF%B5%E7%B3%BB%E5%88%97/MySQL%E4%B8%ADMVCC%E4%BB%8B%E7%BB%8D.md)
+7. [MySQL索引](https://gitee.com/huanglei1111/developer-document/blob/master/mysql/%E6%A6%82%E5%BF%B5%E7%B3%BB%E5%88%97/MySQL%E7%B4%A2%E5%BC%95.md)
 
