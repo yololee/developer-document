@@ -95,6 +95,8 @@
 
 [ springboot-整合MapStruct](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88MapStruct.md)
 
+[springboot：整合p6spy实现自定义日志打印](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88p6spy%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%A5%E5%BF%97%E6%89%93%E5%8D%B0.md)
+
 ### 任务管理
 
 #### 定时任务
