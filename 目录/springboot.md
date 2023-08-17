@@ -79,6 +79,10 @@
 
 [springboot-整合ureport2](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88ureport2.md)
 
+[easyexcel常见注解](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/easyexcel/easyexcel%E6%B3%A8%E8%A7%A3.md)
+
+[springboot-整合easyexcel](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/easyexcel/springboot-%E6%95%B4%E5%90%88easyexcel.md)
+
 ### 文件系统
 
 [springboot-整合minIo](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88minio.md)

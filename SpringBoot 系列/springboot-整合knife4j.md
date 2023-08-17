@@ -10,98 +10,192 @@ Knife4j是一款基于Swagger 2的在线API文档框架
 - 编写配置类（代码相对固定，建议CV）
 ```
 
-## 引入knife4j
+## Spring Boot版本兼容性
 
-**添加依赖**
+![image-20230817141205524](https://gitee.com/huanglei1111/phone-md/raw/master/images/image-20230817141205524.png)
+
+在4.0版本之前，应用坐标：
+
+引用组件maven坐标如下：
 
 ```xml
 <dependency>
     <groupId>com.github.xiaoymin</groupId>
     <artifactId>knife4j-spring-boot-starter</artifactId>
-    <version>3.0.3</version>
+    <version>{<4.0.0版本}</version>
 </dependency>
+```
+
+自4.0版本开始，maven组件的`artifactId`已经发生了变化。
+
+引用组件maven坐标如下：
+
+```xml
+<dependency>
+    <groupId>com.github.xiaoymin</groupId>
+    <artifactId>knife4j-openapi2-spring-boot-starter</artifactId>
+    <version>{maven仓库最新版本}</version>
+</dependency>
+```
+
+## 引入knife4j
+
+**添加依赖**
+
+```xml
+        <dependency>
+            <groupId>com.github.xiaoymin</groupId>
+            <artifactId>knife4j-spring-boot-starter</artifactId>
+            <version>2.0.9</version>
+        </dependency>
 ```
 
 **创建 Swagger 配置依赖**
 
-```java
-package com.yolo.knife4j.config;
+```yml
+springdoc:
+  info:
+    # 标题
+    title: '标题：FastAdmin后台管理系统_接口文档'
+    # 描述
+    description: '描述：用于管理集团旗下公司的人员信息,具体包括XXX,XXX模块...'
+    termsOfServiceUrl: "127.0.0.1:8888"
+    # 版本
+    version: '版本号: 1.1.0'
+    # 作者信息
+    contact:
+      name: yolo
+      email: 2936412130@qq.com
+      url: https://gitee.com/huanglei1111
+# Knife4j接口文档
+knife4j:
+  enable: true
+  # 开启生产环境屏蔽
+  production: false
+  basic:
+    enable: false
+    username: admin
+    password: 123456
+```
 
+```java
+package com.yolo.framework.config.properties;
+
+import io.swagger.v3.oas.models.info.License;
+import lombok.Data;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.boot.context.properties.NestedConfigurationProperty;
+import org.springframework.stereotype.Component;
+import springfox.documentation.service.Contact;
+
+@Data
+@Component
+@ConfigurationProperties(prefix = "springdoc")
+public class SpringDocProperties {
+
+    /**
+     * 文档基本信息
+     */
+    @NestedConfigurationProperty
+    private InfoProperties info = new InfoProperties();
+
+
+
+    /**
+     * <p>
+     * 文档的基础属性信息
+     * </p>
+     *
+     * @see io.swagger.v3.oas.models.info.Info
+     *
+     * 为了 springboot 自动生产配置提示信息，所以这里复制一个类出来
+     */
+    @Data
+    public static class InfoProperties {
+
+        /**
+         * 标题
+         */
+        private String title = null;
+
+        /**
+         * 描述
+         */
+        private String description = null;
+
+        /**
+         * url服务地址
+         */
+        private String termsOfServiceUrl = null;
+
+        /**
+         * 联系人信息
+         */
+        @NestedConfigurationProperty
+        private Contact contact = null;
+
+        /**
+         * 许可证
+         */
+        @NestedConfigurationProperty
+        private License license = null;
+
+        /**
+         * 版本
+         */
+        private String version = null;
+
+    }
+}
+
+```
+
+```java
+package com.yolo.framework.config;
+
+import com.yolo.framework.config.properties.SpringDocProperties;
 import io.swagger.annotations.Api;
-import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Value;
+
+
+
+import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Import;
-import springfox.bean.validators.configuration.BeanValidatorPluginsConfiguration;
-import springfox.documentation.builders.*;
-import springfox.documentation.service.*;
+import springfox.documentation.builders.ApiInfoBuilder;
+import springfox.documentation.builders.PathSelectors;
+import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2WebMvc;
 
-@Slf4j
 @Configuration
 @EnableSwagger2WebMvc
-// 对JSR303提供支持
-@Import(BeanValidatorPluginsConfiguration.class)
-public class Knife4jConfig {
+@RequiredArgsConstructor
+public class Knife4jConfiguration {
 
-    @Value("${spring.application.name}")
-    private String applicationName;
-    @Bean
-    public Docket defaultApi() {
+    private final SpringDocProperties springDocProperties;
+
+    @Bean(value = "defaultApi2")
+    public Docket defaultApi2() {
         return new Docket(DocumentationType.SWAGGER_2)
-                .apiInfo(apiInfo())
-                .groupName(applicationName)
+                .apiInfo(new ApiInfoBuilder()
+                        .title(springDocProperties.getInfo().getTitle())
+                        .description(springDocProperties.getInfo().getDescription())
+                        .termsOfServiceUrl(springDocProperties.getInfo().getTermsOfServiceUrl())
+                        .contact(springDocProperties.getInfo().getContact())
+                        .version("1.0")
+                        .build())
+                //分组名称
+                .groupName(springDocProperties.getInfo().getVersion())
                 .select()
-                // 添加@Api注解才显示
+                //这里指定Controller扫描包路径
                 .apis(RequestHandlerSelectors.withClassAnnotation(Api.class))
-                // 这里指定Controller扫描包路径
-//                .apis(RequestHandlerSelectors.basePackage("com.yolo"))
+                //这里指定Controller扫描包路径
+//                .apis(RequestHandlerSelectors.basePackage("com.github.xiaoymin.knife4j.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
-
-    /**
-     * swagger-api接口描述信息
-     */
-    private ApiInfo apiInfo() {
-        return new ApiInfoBuilder()
-                .title("API文档")
-                .description("API文档")
-                .contact(
-                        new Contact(
-                                "yolo",
-                                "https://gitee.com/huanglei1111",
-                                "2936412130@qq.com"
-                        )
-                )
-                .version("1.0.0")
-                .build();
-    }
 }
-```
-
-**application.yml配置文件**
-
-```yml
-# https://doc.xiaominfo.com/knife4j
-knife4j:
-  # 开启增强配置
-  enable: true
-  # 是否开启生产环境屏蔽   true:关闭swagger，false:开启swagger
-  production: false
-  basic:
-    # 是否开启认证
-    enable: false
-    # Basic认证用户名
-    username: admin
-    # Basic认证密码
-    password: 123456
-spring:
-  application:
-    name: test-knife4j
 ```
 
 ## 注解
@@ -539,4 +633,6 @@ knife4j:
 > 同样，此操作也需要开发者在创建Docket逻辑分组对象时，通过Knife4j提供的工具对象OpenApiExtensionResolver将扩展属性进行赋值。具体的代码实现请参考禁用调试和自定义主页内容，我这里就不重复了。
 
 > [Gitee项目地址（demo-knife4j）](https://gitee.com/huanglei1111/yolo-springboot-demo/tree/master/demo-knife4j)
+>
+> [knife4j官方文档地址](https://doc.xiaominfo.com/docs/quick-start/start-knife4j-version)
 
