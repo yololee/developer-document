@@ -15,6 +15,7 @@
 11. [springboot-自定义过滤器Filter使用详解](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BF%87%E6%BB%A4%E5%99%A8Filter%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.md)
 12. [springboot-lombok介绍](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BB%8B%E7%BB%8Dlombok.md)
 13. [springboot：整合国际化](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88%E5%9B%BD%E9%99%85%E5%8C%96.md)
+14. [springboot：使用Undertow替换Tomcat](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E4%BD%BF%E7%94%A8Undertow%E6%9B%BF%E6%8D%A2tomcat.md)
 
 ### 日志
 
@@ -117,4 +118,6 @@
 #### 分布式定时任务
 
 [springboot-自定义注解结合redis实现分布式定时任务锁](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E7%BB%93%E5%90%88redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E9%94%81.md)
+
+[springboot：整合shedlock实现分布式定时任务redis版](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88Shedlock%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1redis%E7%89%88.md)
 
