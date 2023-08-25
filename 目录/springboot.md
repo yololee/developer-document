@@ -54,6 +54,8 @@
 
 [springboot-整合flyway](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88flyway.md)
 
+[springboot-自定义注解结合druid实现动态多数据源](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90.md)
+
 ### redis
 
 [springboot-整合redis](https://gitee.com/huanglei1111/developer-document/blob/master/SpringBoot%20%E7%B3%BB%E5%88%97/springboot-%E6%95%B4%E5%90%88redis.md)
